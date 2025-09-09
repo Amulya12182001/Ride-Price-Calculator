@@ -2,11 +2,9 @@ I built a 🚗 Trip Cost Calculator as a practical demonstration of my skills in
 
 This project highlights my ability to:
 
-->Work with real-world data and integrate external APIs like Google Maps Directions & Autocomplete
-
-->Build interactive, responsive web applications using Flask, HTML, CSS, and JavaScript
-
-->Deploy fully functional projects to a production environment using Render
+- Work with real-world data and integrate external APIs like Google Maps Directions & Autocomplete
+- Build interactive, responsive web applications using Flask, HTML, CSS, and JavaScript
+- Deploy fully functional projects to a production environment using Render
 
 I developed this project with the goal of solving practical transportation challenges, which aligns closely with RouteGenie’s mission of optimizing transportation services. It demonstrates my genuine interest in understanding the operational and technological aspects of transportation and my enthusiasm to contribute to innovative solutions in this field.
 
